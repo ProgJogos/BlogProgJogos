@@ -5,5 +5,5 @@ Enunciado do exercício.
 #### Gabarito
 
 ```csharp
-código em c# vaia qui
+código em c# vai aqui
 ```
