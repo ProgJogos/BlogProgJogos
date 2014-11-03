@@ -1,0 +1,1 @@
+Crie uma função `CalcularVariacaoEstoque` que recebe como parâmetros `populacao`, `tecnologia`, `consumoPorPessoa` e `status` (em `string`). A função deve calcular e retornar (ìnt`) a diferença entre a produção e o consumo total. Utilize as funções `CalcularProducao` e `CalcularConsumoTotal` já definidas anteriormente.
