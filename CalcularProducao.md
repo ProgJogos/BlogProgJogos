@@ -1,1 +1,5 @@
-Pense em um jogo estilo Civilization. No jogo, precisamos calcular a produção de cada território, que depende de sua população, tecnologia e status (ocupado ou não). Para isso, criamos uma função `CaularProducao`, que retorna um `float` representando a produção de um território. A função recebe 3 parâmetros: um `int` populacao, um `int` tecnologia e uma `string` status. Se o status for "ocupado", a produção será 0. Senão, a produção será igual a população x tecnologia.
+Pense em um jogo estilo Civilization. No jogo, precisamos calcular a produção de cada território, que depende de sua população, tecnologia e status (ocupado ou não). Para isso, criamos uma função `CaularProducao`, que retorna um `int` representando a produção de um território. A função recebe 2 parâmetros: um `int` populacao e um `int` tecnologia. A produção será igual a população x tecnologia.
+
+### Parte 2
+
+Acrecente um parâmetro  `string` status. Se o status for "ocupado", a produção será 0. Senão, o retorno é o mesmo que antes.
